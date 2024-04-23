@@ -1,0 +1,41 @@
+.all{
+    background-color: aquamarine;
+}
+.wabit{
+    background-color: blue;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.hot{
+    background-color: blueviolet;
+}
+.hot:hover{
+    background-color: brown;
+}
+.the:hover{
+    background-color: black;
+    color: beige;
+}
+.border{
+    height: 400px;
+    width: 400px;
+    border: 2px dotted gray;
+    margin: 10px;
+    padding: 10px;
+}
+.home{
+    background-color: chartreuse;
+}
+h1{
+    text-align: center;
+}
+
+.focus:focus{
+    
+    border: 2px dotted blue;
+}
+.stl{
+    color: green;
+    background-color: blueviolet;
+}
